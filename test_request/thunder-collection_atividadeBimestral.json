@@ -1,0 +1,64 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "atividadeBimestral",
+    "collectionId": "572ee934-daa0-4f52-8784-0a163238302a",
+    "dateExported": "2025-04-05T00:23:47.967Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "19bd3ea9-6051-4010-b879-6bd6686f791b",
+            "colId": "572ee934-daa0-4f52-8784-0a163238302a",
+            "containerId": "",
+            "name": "C",
+            "url": "http://localhost:3001/cadastrousuario",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2025-04-05T00:20:03.245Z",
+            "modified": "2025-04-05T00:23:19.225Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"nome\": \"Marcos Kaiky\",\n  \"email\": \"mkaikygarcia@gmail.com\",\n  \"telefone\": \"44997749031\",\n  \"endereco\": \"Rua Pedrosmiro Miro\"\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "a6261aa1-daf1-4303-aadd-4a84903fb837",
+            "colId": "572ee934-daa0-4f52-8784-0a163238302a",
+            "containerId": "",
+            "name": "R",
+            "url": "http://localhost:3001/cadastrousuario/1",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2025-04-05T00:20:07.685Z",
+            "modified": "2025-04-05T00:21:34.031Z",
+            "headers": []
+        },
+        {
+            "_id": "8da11fc5-f7ed-434c-81c0-28cd879a182f",
+            "colId": "572ee934-daa0-4f52-8784-0a163238302a",
+            "containerId": "",
+            "name": "U",
+            "url": "http://localhost:3001/cadastrousuario/1",
+            "method": "PUT",
+            "sortNum": 30000,
+            "created": "2025-04-05T00:20:09.965Z",
+            "modified": "2025-04-05T00:21:45.336Z",
+            "headers": []
+        },
+        {
+            "_id": "b80e4b10-32fc-47fd-a713-98466b69fbbd",
+            "colId": "572ee934-daa0-4f52-8784-0a163238302a",
+            "containerId": "",
+            "name": "D",
+            "url": "http://localhost:3001/cadastrousuario/3",
+            "method": "DELETE",
+            "sortNum": 40000,
+            "created": "2025-04-05T00:20:12.086Z",
+            "modified": "2025-04-05T00:23:00.777Z",
+            "headers": []
+        }
+    ],
+    "ref": "xMQWSYrADp6gPcPEufkOimsi0X86e9c1rACKo6esLMPNphhShQkemCBmLxRzWgGKYXMZaXjvfu5cI0bpudhwdw"
+}
